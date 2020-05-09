@@ -1,6 +1,5 @@
 print('hi')
 
-d = {}
-
-d.update({'name': 'Ion', 'age': 27 })
-print(d)
+l= []
+l.extend ([1, 2, 4])
+print(l)
